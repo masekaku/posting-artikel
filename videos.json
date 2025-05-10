@@ -1,31 +1,22 @@
-{
-  "videos": [
+[
     {
-      "title": "Video Viral 1",
-      "author": "Claren",
-      "date": "2025-05-10",
-      "content": "This is a viral video description. Watch now and enjoy the content!",
-      "videoUrl": "https://videy.co/v/?id=COTMn6Xf1",
-      "imageUrl": "https://iili.io/3vI8GLP.th.webp",
-      "downloadLink": "https://example.com/download/video1"
+        "title": "Video Pertama - Judul Video",
+        "description": "Deskripsi singkat video pertama. Ini adalah contoh deskripsi untuk video pertama.",
+        "thumbnail": "https://iili.io/3vI8GLP.th.webp",
+        "url": "https://videy.co/v/?id=COTMn6Xf1",
+        "duration": "10:30",  // Durasi video dalam format mm:ss
+        "size": "150 MB",     // Ukuran file video
+        "date": "2025-05-10", // Tanggal rilis video
+        "tags": ["video", "tutorial", "pemrograman"] // Tags untuk video
     },
     {
-      "title": "Video Viral 2",
-      "author": "Claren",
-      "date": "2025-05-09",
-      "content": "Another amazing video you shouldn't miss!",
-      "videoUrl": "https://videy.co/v/?id=COTMn6Xf1",
-      "imageUrl": "https://iili.io/3vI8GLP.th.webp",
-      "downloadLink": "https://example.com/download/video2"
-    },
-    {
-      "title": "Video Viral 3",
-      "author": "Claren",
-      "date": "2025-05-08",
-      "content": "This is yet another amazing video!",
-      "videoUrl": "https://videy.co/v/?id=COTMn6Xf1",
-      "imageUrl": "https://iili.io/3vI8GLP.th.webp",
-      "downloadLink": "https://example.com/download/video3"
+        "title": "Video Kedua - Judul Video",
+        "description": "Deskripsi singkat video kedua. Ini adalah contoh deskripsi untuk video kedua.",
+        "thumbnail": "https://iili.io/3vI8GLP.th.webp",
+        "url": "https://videy.co/v/?id=COTMn6Xf1",
+        "duration": "12:45",  // Durasi video dalam format mm:ss
+        "size": "180 MB",     // Ukuran file video
+        "date": "2025-05-12", // Tanggal rilis video
+        "tags": ["video", "musik", "hiburan"] // Tags untuk video
     }
-  ]
-}
+]
