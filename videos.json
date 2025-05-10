@@ -1,22 +1,21 @@
 [
-    {
-        "title": "Video Pertama - Judul Video",
-        "description": "Deskripsi singkat video pertama. Ini adalah contoh deskripsi untuk video pertama.",
-        "thumbnail": "https://iili.io/3vI8GLP.th.webp",
-        "url": "https://videy.co/v/?id=COTMn6Xf1",
-        "duration": "10:30",  // Durasi video dalam format mm:ss
-        "size": "150 MB",     // Ukuran file video
-        "date": "2025-05-10", // Tanggal rilis video
-        "tags": ["video", "tutorial", "pemrograman"] // Tags untuk video
-    },
-    {
-        "title": "Video Kedua - Judul Video",
-        "description": "Deskripsi singkat video kedua. Ini adalah contoh deskripsi untuk video kedua.",
-        "thumbnail": "https://iili.io/3vI8GLP.th.webp",
-        "url": "https://videy.co/v/?id=COTMn6Xf1",
-        "duration": "12:45",  // Durasi video dalam format mm:ss
-        "size": "180 MB",     // Ukuran file video
-        "date": "2025-05-12", // Tanggal rilis video
-        "tags": ["video", "musik", "hiburan"] // Tags untuk video
-    }
+  {
+    "id": "vid001",
+    "title": "Video Alam yang Menakjubkan",
+    "description": "Pemandangan alam dari berbagai belahan dunia.",
+    "videoUrl": "https://videy.co/v/?id=COTMn6Xf1", // Ganti dengan URL embed video Anda
+    "thumbnailUrl": "https://iili.io/3vI8GLP.th.webp", // Ganti dengan URL thumbnail
+    "tags": ["alam", "pemandangan", "travel"],
+    "uploadDate": "2025-05-10"
+  },
+  {
+    "id": "vid002",
+    "title": "Tutorial Memasak Nasi Goreng",
+    "description": "Cara mudah membuat nasi goreng spesial.",
+    "videoUrl": "https://videy.co/v/?id=COTMn6Xf1",
+    "thumbnailUrl": "https://iili.io/3vI8GLP.th.webp",
+    "tags": ["memasak", "resep", "nasi goreng"],
+    "uploadDate": "2025-05-11"
+  }
+  // Tambahkan video lainnya
 ]
