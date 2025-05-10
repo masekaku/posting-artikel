@@ -5,6 +5,16 @@
     "description": "Deskripsi singkat mengenai video ini.",
     "videoUrl": "https://videy.co/v/?id=COTMn6Xf1",
     "thumbnailUrl": "https://iili.io/3vI8GLP.th.webp",
-    "tags": ["video", "baru"]",
+    "tags": ["video", "baru"],
+    "uploadDate": "2025-05-11"
+  },
+  {
+    "id": "vid002",
+    "title": "Video Lainnya",
+    "description": "Deskripsi untuk video kedua.",
+    "videoUrl": "URL_VIDEO_KEDUA_ANDA",
+    "thumbnailUrl": "URL_THUMBNAIL_KEDUA_ANDA",
+    "tags": ["contoh", "lain"],
+    "uploadDate": "2025-05-12"
   }
 ]
