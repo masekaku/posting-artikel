@@ -1,22 +1,12 @@
 [
-    {
-        "title": "Video Pertama - Judul Video",
-        "description": "Deskripsi singkat video pertama. Ini adalah contoh deskripsi untuk video pertama.",
-        "thumbnail": "https://iili.io/3vI8GLP.th.webp",
-        "url": "https://videy.co/v/?id=COTMn6Xf1",
-        "duration": "10:30",  // Durasi video dalam format mm:ss
-        "size": "150 MB",     // Ukuran file video
-        "date": "2025-05-10", // Tanggal rilis video
-        "tags": ["video", "tutorial", "pemrograman"] // Tags untuk video
-    },
-    {
-        "title": "Video Kedua - Judul Video",
-        "description": "Deskripsi singkat video kedua. Ini adalah contoh deskripsi untuk video kedua.",
-        "thumbnail": "https://iili.io/3vI8GLP.th.webp",
-        "url": "https://videy.co/v/?id=COTMn6Xf1",
-        "duration": "12:45",  // Durasi video dalam format mm:ss
-        "size": "180 MB",     // Ukuran file video
-        "date": "2025-05-12", // Tanggal rilis video
-        "tags": ["video", "musik", "hiburan"] // Tags untuk video
-    }
+  {
+    "title": "Video 1 Title",
+    "url": "https://videy.co/v/?id=COTMn6Xf1",
+    "thumbnail": "https://iili.io/3vI8GLP.th.webp"
+  },
+  {
+    "title": "Video 2 Title",
+    "url": "https://videy.co/v/?id=COTMn6Xf1",
+    "thumbnail": "https://iili.io/3vI8GLP.th.webp"
+  }
 ]
