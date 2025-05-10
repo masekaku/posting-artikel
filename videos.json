@@ -3,8 +3,8 @@
     "id": "vid001",
     "title": "Video Alam yang Menakjubkan",
     "description": "Pemandangan alam dari berbagai belahan dunia.",
-    "videoUrl": "https://videy.co/v/?id=COTMn6Xf1", // Ganti dengan URL embed video Anda
-    "thumbnailUrl": "https://iili.io/3vI8GLP.th.webp", // Ganti dengan URL thumbnail
+    "videoUrl": "https://videy.co/v/?id=COTMn6Xf1",
+    "thumbnailUrl": "https://iili.io/3vI8GLP.th.webp",
     "tags": ["alam", "pemandangan", "travel"],
     "uploadDate": "2025-05-10"
   },
@@ -16,6 +16,5 @@
     "thumbnailUrl": "https://iili.io/3vI8GLP.th.webp",
     "tags": ["memasak", "resep", "nasi goreng"],
     "uploadDate": "2025-05-11"
-  }
-  // Tambahkan video lainnya
+  },
 ]
