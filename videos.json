@@ -1,20 +1,11 @@
 [
   {
-    "id": "vid001",
-    "title": "Video Alam yang Menakjubkan",
-    "description": "Pemandangan alam dari berbagai belahan dunia.",
+    "id": "COTMn6Xf1",
+    "title": "Video Baru Saya",
+    "description": "Deskripsi singkat mengenai video ini.",
     "videoUrl": "https://videy.co/v/?id=COTMn6Xf1",
     "thumbnailUrl": "https://iili.io/3vI8GLP.th.webp",
-    "tags": ["alam", "pemandangan", "travel"],
-    "uploadDate": "2025-05-10"
-  },
-  {
-    "id": "vid002",
-    "title": "Tutorial Memasak Nasi Goreng",
-    "description": "Cara mudah membuat nasi goreng spesial.",
-    "videoUrl": "https://videy.co/v/?id=COTMn6Xf1",
-    "thumbnailUrl": "https://iili.io/3vI8GLP.th.webp",
-    "tags": ["memasak", "resep", "nasi goreng"],
+    "tags": ["video", "baru"],
     "uploadDate": "2025-05-11"
-  },
+  }
 ]
