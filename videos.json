@@ -1,0 +1,31 @@
+{
+  "videos": [
+    {
+      "title": "Video Viral 1",
+      "author": "Claren",
+      "date": "2025-05-10",
+      "content": "This is a viral video description. Watch now and enjoy the content!",
+      "videoUrl": "https://videy.co/v/?id=COTMn6Xf1",
+      "imageUrl": "https://iili.io/3vI8GLP.th.webp",
+      "downloadLink": "https://example.com/download/video1"
+    },
+    {
+      "title": "Video Viral 2",
+      "author": "Claren",
+      "date": "2025-05-09",
+      "content": "Another amazing video you shouldn't miss!",
+      "videoUrl": "https://videy.co/v/?id=COTMn6Xf1",
+      "imageUrl": "https://iili.io/3vI8GLP.th.webp",
+      "downloadLink": "https://example.com/download/video2"
+    },
+    {
+      "title": "Video Viral 3",
+      "author": "Claren",
+      "date": "2025-05-08",
+      "content": "This is yet another amazing video!",
+      "videoUrl": "https://videy.co/v/?id=COTMn6Xf1",
+      "imageUrl": "https://iili.io/3vI8GLP.th.webp",
+      "downloadLink": "https://example.com/download/video3"
+    }
+  ]
+}
